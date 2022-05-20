@@ -97,3 +97,5 @@ exclude:
 highlighter: rouge
 
 plugins: [jekyll-redirect-from]
+
+theme: jekyll-theme-midnight
