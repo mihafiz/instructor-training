@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .
-redirect_from: "http://swcarpentry.github.io/instructor-training/"
+redirect_from: "http://mihafiz.github.io/instructor-training/"
 ---
 
 Welcome to The Carpentries Instructor Training curriculum! Originally released in 2016, this resource is collaboratively maintained and taught by The Carpentries Instructor Trainer community. Minor changes occur routinely; major updates are chronicled in our release history.
